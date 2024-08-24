@@ -8,3 +8,5 @@ Creación y configuración de la base de datos Postgres:
 Script para creación de la tabla imagen DB.sql
 
 Para ejecutar el programa se debe correr gui.py
+
+
