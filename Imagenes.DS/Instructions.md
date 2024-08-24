@@ -1,9 +1,8 @@
 Creación y configuración de la base de datos Postgres:
-  
-  nombre de la base de datos: myDB
-  nombre de la tabla: imagen
-  user: postgres
-  password: admin
+  nombre de la base de datos: myDB, 
+  nombre de la tabla: imagen, 
+  user: postgres, 
+  password: admin, 
 
 Script para creación de la tabla imagen DB.sql
 
